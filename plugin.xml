@@ -7,8 +7,6 @@
 	<keywords>file,download,checksum,md5,unzip</keywords>
 	<repo>https://github.com/skwerlzu/tf-downloader.git</repo>
 	<issue>https://github.com/skwerlzu/tf-downloaderissues</issue>
-	<dependency id="cordova-plugin-network-information" version="0.2.14" />
-	<dependency id="cordova-plugin-zip" version="2.1.0" />
 	<dependency id="cordova-plugin-fastrde-md5" version="0.2.0" />	
 
 	<js-module src="www/downloader.min.js" name="downloader">
